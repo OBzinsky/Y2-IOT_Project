@@ -13,3 +13,4 @@ Week 11:
 
 - created the Github repository
 - combined the files into 1 folder 
+- worked on integrating all the files starting from the base & water level sensor
