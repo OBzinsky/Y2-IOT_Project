@@ -1,0 +1,7 @@
+gnd to gnd
+
+vcc to 3v3
+
+sda to gpio 21
+
+scl to gpio 22
