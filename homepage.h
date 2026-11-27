@@ -65,12 +65,12 @@ String homePagePart2 = F(R"=====(</td>
         </tr>
         <tr>
           <td> GDHT11 - Humidity</td>
-          <td> ghhes </td>
+          <td id="humidityValue">--</td>
           <td>Percentage</td>
         </tr>
         <tr>
           <td> GWLS - Water Level</td>
-          <td> ghhses </td>
+          <td id="waterValue">--</td>
           <td>Centimeter</td>
         </tr>  
       </table> 
